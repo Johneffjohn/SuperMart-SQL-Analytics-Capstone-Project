@@ -4,11 +4,11 @@
 This project is a complete end-to-end SQL data analytics case study built using PostgreSQL. It simulates real-world retail business analysis for SuperMart, focusing on customer behaviour, employee performance, product trends, and revenue insights. The goal of this project is to demonstrate strong SQL skills in data cleaning, transformation, aggregation, joins, CTEs, and business reporting.
 
 ##  Tools Used
-PostgreSQL
-SQL (Advanced Queries)
-pgAdmin / PostgreSQL Workbench
-Relational Database Design Concepts
-Database Structure
+- PostgreSQL
+- SQL (Advanced Queries)
+- pgAdmin / PostgreSQL Workbench
+- Relational Database Design Concepts
+- Database Structure
 
 ##  The dataset consists of the following relational tables:
 customers
