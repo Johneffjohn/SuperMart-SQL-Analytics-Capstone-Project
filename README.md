@@ -18,7 +18,7 @@ This project is a complete end-to-end SQL data analytics case study built using 
 - categories
 - employees
 - regions
-All tables are linked through primary and foreign key relationships.
+- All tables are linked through primary and foreign key relationships.
 
 ##  Key Business Questions Solved
 The project is structured into 10 progressive SQL tasks:
